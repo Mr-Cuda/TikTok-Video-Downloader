@@ -4,4 +4,4 @@
 
 - install [Python](https://python.org/download)
 
-- start YikTok.py
+- start tiktok.py
