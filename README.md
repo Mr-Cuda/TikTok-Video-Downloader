@@ -4,4 +4,4 @@
 
 - install [Python](https://python.org/download)
 
-- start tiktok.py
+- click on start.bat
