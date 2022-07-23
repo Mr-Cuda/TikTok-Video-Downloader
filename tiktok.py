@@ -3,7 +3,7 @@ class color:
     
 import requests
 import tikvid
-from colorama import init
+import colorama
 
 video = input('URL: ')
 id = tikvid.parseLink(video)
